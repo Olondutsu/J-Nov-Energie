@@ -2518,29 +2518,7 @@ input, select, textarea {
 
 
 
-.style1 .icon.major:before {
-					color: #5e42a6;
-				}
-
-				.wrapper.style1-alt .icon.major:before {
-					color: #4eb774;
-				}
-
-				.wrapper.style2 .icon.major:before {
-					color: #5db74e;
-				}
-
-				.wrapper.style2-alt .icon.major:before {
-					color: #4eb7a9;
-				}
-
-				.wrapper.style3 .icon.major:before {
-					color: #3d955d;
-				}
-
-				.wrapper.style3-alt .icon.major:before {
-					color: #275f3b;
-				}
+/* Inserez Wrapper ici */
 
 /* Image */
 
