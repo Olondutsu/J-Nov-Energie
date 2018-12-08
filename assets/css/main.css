@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #076005;
+		background: #aea287;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -197,10 +197,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #275f3b, #5db74e);
-				background-image: -webkit-linear-gradient(to right, #275f3b, #5db74e);
-				background-image: -ms-linear-gradient(to right, #275f3b, #5db74e);
-				background-image: linear-gradient(to right, #275f3b, #5db74e);
+				background-image: -moz-linear-gradient(to right, #498550, #2c7638);
+				background-image: -webkit-linear-gradient(to right, #498550, #2c7638);
+				background-image: -ms-linear-gradient(to right, #498550, #2c7638);
+				background-image: linear-gradient(to right, #498550, #2c7638);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3511,7 +3511,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #076005;
+		background: #aea287 ;
 		cursor: default;
 		height: 100vh;
 		left: 0;
