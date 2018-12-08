@@ -55,7 +55,7 @@ body {
 }
 
 mark {
-	background-color: transparent;
+	background-: transparent;
 	color: inherit;
 }
 
@@ -1915,7 +1915,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			color: #076005 !important;
+			color: #aea287 !important;
 		}
 
 			input[type="submit"].primary:after,
@@ -2356,7 +2356,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #076005;
+			background: #aea287;
 		}
 
 		select:focus::-ms-value {
@@ -2439,7 +2439,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #5db74e;
+			color: #aea287;
 			content: '\f00c';
 		}
 
@@ -2519,27 +2519,27 @@ input, select, textarea {
 
 
 .style1 .icon.major:before {
-					color: #587004;
+					color: #aea287;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #4eb774;
+					color: #2c7638;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5db74e;
+					color: #498550;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #4eb7a9;
+					color: #578cb4;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #3d955d;
+					color: #1a66ab;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #275f3b;
+					color: #aea287;
 				}
 
 /* Image */
@@ -3226,31 +3226,31 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #006E4;
+			background-color: #aea287;
 		}
 
 		.wrapper.style1 {
-			background-color: #4eb774;
+			background-color: #2c7638;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #5db74e;
+			background-color: #498550;
 		}
 
 		.wrapper.style2 {
-			background-color: #4eb7a9;
+			background-color: #578cb4;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3d955d;
+			background-color: #1a66ab;
 		}
 
 		.wrapper.style3 {
-			background-color: #5db74e;
+			background-color: #aea287;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #006E4;
+			background-color: #578cb4;
 		}
 
 		.wrapper.fullscreen {
@@ -3357,7 +3357,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #aea287;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3748,7 +3748,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #1a66ab;
 			}
 
 			#sidebar nav a:after {
@@ -3844,7 +3844,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #5db74e;
+							background-color: #1a66ab;
 						}
 
 		}
